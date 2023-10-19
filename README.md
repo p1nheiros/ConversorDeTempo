@@ -3,9 +3,9 @@
   <br />
   <br />
 
-  <h1 align="center">Programa de Prática de JavaScript</h1>
+  <h1 align="center">Conversor de Tempo</h1>
 
-  >O programa permite o usuário transformar a quantidade de minutos em horas e minutos e também possibilita visualizar a quantidade de dias em anos, meses e dias
+  >O programa permite o usuário transformar a quantidade de minutos em horas e minutos e também possibilita visualizar a quantidade de dias em anos, meses e dias.
 
   <a href="https://github.com/p1nheiros/ProgramaDePratica"><strong>➥ Visualizar Projeto</strong></a>
 
