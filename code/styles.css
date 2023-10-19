@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    background-color: #e2dfdf;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.212);
+}
+
+.input-section {
+    margin-bottom: 10px;
+}
+
+input, button {
+    background-color: #ffffff;
+    font-size: 16px;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+
+button {
+    cursor: pointer;
+}
+
+#result-minutes, #result-days {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+#inp1 {
+    margin-bottom: 25px;
+}
+
+#btnR {
+    margin-top:15px;
+}
